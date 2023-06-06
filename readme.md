@@ -12,3 +12,10 @@
     b) Modify one to store the hash values of passwords & use it.
     c) Optional: Create a salt file; add salt to password before storing in (b).
 5.  Generate a symmetric key by using Diffie-Hellman method given g, p, x and y
+
+## question 4 to run in use
+
+```bash
+$ npm i
+$ npm start
+```
